@@ -8,7 +8,7 @@ Sticky navigation bar with user controls
 Music player at the bottom with playback controls  
 Dark theme styling for immersive user experience  
 Fully responsive layout with hover effects
-## 🛠 Tech Stack
+## Tech Stack
 **HTML5** – for the structure and content  
 **CSS3** – for styling and layout  
 **Font Awesome** – for icons  
